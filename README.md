@@ -7,3 +7,5 @@
 git clone https://github.com/GitHubNull/wps_fonts.git && cd wps_fonts && chmod +x install.sh && ./install.sh
 
 ```
+
+## 如果 github.com 下载太慢请转
