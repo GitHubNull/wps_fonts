@@ -8,4 +8,5 @@ git clone https://github.com/GitHubNull/wps_fonts.git && cd wps_fonts && chmod +
 
 ```
 
-## 如果 github.com 下载太慢请转
+## 如果 github.com 下载太慢请转请转[开源中国仓库]
+如果克隆速度**太慢**的话，请转[开源中国仓库](https://gitee.com/a42/wps_fonts "开源中国仓库")
