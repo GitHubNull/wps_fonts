@@ -3,6 +3,7 @@
 
 ## 一键解决
 '''shell
-git clone 
+
+git clone https://github.com/GitHubNull/wps_fonts.git
 
 '''
