@@ -2,8 +2,7 @@
 解决linux桌面发行版wps字体问题
 
 ## 一键解决
-'''shell
+```shell
+git clone https://github.com/GitHubNull/wps_fonts.git && cd wps_fonts && chmod +x install.sh && ./install.sh
 
-git clone https://github.com/GitHubNull/wps_fonts.git
-
-'''
+```
