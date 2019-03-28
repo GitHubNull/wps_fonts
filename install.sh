@@ -46,4 +46,4 @@ fi
 cd -
 cd ..
 
-# rm -rf wps_fonts
+rm -rf wps_fonts
